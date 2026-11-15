@@ -1,0 +1,7 @@
+node_modules/
+frames/
+build/
+*.wav
+!sfx/.keep
+src/preview.html
+starship-storybook.mp4

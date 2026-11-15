@@ -1,0 +1,11 @@
+{
+  "name": "starship-storybook",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sfx": "python3 src/make_sfx.py",
+    "build": "python3 src/build.py",
+    "render": "node src/render.mjs build/render.html frames all 7 jpg"
+  },
+  "dependencies": { "puppeteer-core": "^25.17.0" }
+}
