@@ -1,0 +1,87 @@
+[
+ {
+  "file": "s1_space_hum.wav",
+  "start": 0,
+  "gain_db": -30
+ },
+ {
+  "file": "s1_door_open.wav",
+  "start": 1.4,
+  "gain_db": -22
+ },
+ {
+  "file": "s1_door_close.wav",
+  "start": 9.8,
+  "gain_db": -22
+ },
+ {
+  "file": "s1_satellite_puffs.wav",
+  "start": 2.8,
+  "gain_db": -26
+ },
+ {
+  "file": "s1_engine_ignite_burn.wav",
+  "start": 14.0,
+  "gain_db": -20
+ },
+ {
+  "file": "s2_reentry_roar.wav",
+  "start": 24.6,
+  "gain_db": -19
+ },
+ {
+  "file": "s2_flap_servos.wav",
+  "start": 26,
+  "gain_db": -30
+ },
+ {
+  "file": "s3_cloud_wind.wav",
+  "start": 54.6,
+  "gain_db": -22
+ },
+ {
+  "file": "s3_ocean_waves.wav",
+  "start": 57,
+  "gain_db": -28
+ },
+ {
+  "file": "s3_raptor_flip_roar.wav",
+  "start": 61.0,
+  "gain_db": -16
+ },
+ {
+  "file": "s4_engines_smoke.wav",
+  "start": 84.4,
+  "gain_db": -17
+ },
+ {
+  "file": "s4_tower_arms.wav",
+  "start": 98.0,
+  "gain_db": -20
+ },
+ {
+  "file": "s4_catch_clank.wav",
+  "start": 100.4,
+  "gain_db": -14
+ },
+ {
+  "file": "s4_engine_cutoff.wav",
+  "start": 100.8,
+  "gain_db": -20
+ },
+ {
+  "file": "s5_steam_hiss.wav",
+  "start": 102,
+  "gain_db": -30
+ },
+ {
+  "file": "s5_breeze.wav",
+  "start": 100,
+  "gain_db": -32
+ },
+ {
+  "file": "s5_triumphant_swell.wav",
+  "start": 109.5,
+  "gain_db": -24
+ }
+]
